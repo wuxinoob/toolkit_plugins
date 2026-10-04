@@ -198,6 +198,8 @@
       "tags": ["网络代理", "官方安装包", "流量分流", "网络诊断"],
       "website": "https://github.com/clash-verge-rev/clash-verge-rev",
       "wingetId": "clash-verge-rev.clash-verge-rev",
+      "installerUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases/latest/download/Clash.Verge_x64_setup.exe",
+      "installerFileName": "Clash.Verge_x64_setup.exe",
       "detailPath": "software/clash-verge/README.md"
     }
   ]
