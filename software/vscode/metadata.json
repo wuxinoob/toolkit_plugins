@@ -1,0 +1,10 @@
+{
+  "id": "software.vscode",
+  "name": "Visual Studio Code",
+  "version": "最新稳定版",
+  "author": "Microsoft",
+  "category": "开发工具",
+  "website": "https://code.visualstudio.com/",
+  "wingetId": "Microsoft.VisualStudioCode",
+  "description": "轻量但功能强大的现代化源代码编辑器，拥有庞大的插件生态系统与调试能力。"
+}

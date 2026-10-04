@@ -1,0 +1,10 @@
+{
+  "id": "software.clash-verge",
+  "name": "Clash Verge Rev",
+  "version": "最新版",
+  "author": "Clash Verge Rev Team",
+  "category": "网络与安全",
+  "website": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "wingetId": "clash-verge-rev.clash-verge-rev",
+  "description": "基于 Tauri 打造的高性能现代化网络代理客户端，界面精致流畅，支持丰富的分流规则与订阅管理。"
+}

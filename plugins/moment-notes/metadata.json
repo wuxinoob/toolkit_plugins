@@ -1,0 +1,14 @@
+{
+  "id": "custom.moment-notes",
+  "name": "拾光便签",
+  "version": "2.0.0",
+  "author": "Tan18",
+  "entry": "main.js",
+  "description": "基于 WebDAV 同步的高颜值便签插件，支持独立置顶悬浮窗与跨窗口双向同步、分类归档与历史备份。",
+  "targetDir": "moment-notes",
+  "permissions": [
+    "rpc:storage",
+    "rpc:bus",
+    "win:manage"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "software.devtoys",
+  "name": "DevToys",
+  "version": "2.0.x",
+  "author": "DevToys Community",
+  "category": "开发工具",
+  "website": "https://devtoys.app/",
+  "wingetId": "DevToys-app.DevToys",
+  "description": "开发者 Swiss Army knife（瑞士军刀），涵盖 JSON 格式化、JWT 解码、正则表达式测试、Base64转换等。"
+}

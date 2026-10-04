@@ -1,0 +1,10 @@
+{
+  "id": "software.powertoys",
+  "name": "Microsoft PowerToys",
+  "version": "最新版",
+  "author": "Microsoft",
+  "category": "系统增强",
+  "website": "https://github.com/microsoft/PowerToys",
+  "wingetId": "Microsoft.PowerToys",
+  "description": "微软官方出品的 Windows 高级系统生产力套件（FancyZones、跑狗启动器、取色器、文本提取等）。"
+}

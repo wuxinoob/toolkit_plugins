@@ -1,0 +1,14 @@
+{
+  "id": "devtool",
+  "name": "开发助手",
+  "version": "0.3.0",
+  "author": "Tan18",
+  "entry": "main.js",
+  "description": "Windows 常用开发与系统小工具：端口占用探测与清理、目录文件锁排查、进程句柄分析、PATH环境变量诊断、系统防休眠 (Awake)、Hosts文件极简编辑。",
+  "targetDir": "devtool",
+  "permissions": [
+    "rpc:proc",
+    "rpc:dialog",
+    "rpc:storage"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "software.snipaste",
+  "name": "Snipaste",
+  "version": "2.9.x",
+  "author": "Snipaste",
+  "category": "日常效率",
+  "website": "https://www.snipaste.com/",
+  "wingetId": "Snipaste.Snipaste",
+  "description": "极致好用的截图与贴图神级工具，支持像素级取色、图片马赛克、画笔标注与贴图置顶浮动。"
+}

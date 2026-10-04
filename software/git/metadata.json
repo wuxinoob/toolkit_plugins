@@ -1,0 +1,10 @@
+{
+  "id": "software.git",
+  "name": "Git for Windows",
+  "version": "最新稳定版",
+  "author": "Git Community",
+  "category": "开发工具",
+  "website": "https://git-scm.com/",
+  "wingetId": "Git.Git",
+  "description": "世界上最流行的分布式版本控制系统，提供 Git Bash、GUI 和 Windows Credential Manager。"
+}
