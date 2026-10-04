@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-04T20:30:00Z",
+  "version": 2,
+  "updatedAt": "2026-10-04T21:35:00Z",
   "plugins": [
     {
       "id": "devtool",
@@ -13,8 +13,8 @@
       "category": "系统与开发",
       "tags": ["端口占用", "文件解锁", "Hosts编辑", "环境变量", "Awake"],
       "targetDir": "devtool",
-      "downloadUrl": "https://raw.githubusercontent.com/wuxinoob/toolkit_plugins/main/plugins/devtool/package.zip",
-      "mirrorUrl": "https://cdn.jsdelivr.net/gh/wuxinoob/toolkit_plugins@main/plugins/devtool/package.zip",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/wuxinoob/toolkit_plugins@main/plugins/devtool/package.zip",
+      "mirrorUrl": "https://raw.githubusercontent.com/wuxinoob/toolkit_plugins/main/plugins/devtool/package.zip",
       "size": "260 KB",
       "detailPath": "plugins/devtool/README.md"
     },
@@ -29,8 +29,8 @@
       "category": "健康与效率",
       "tags": ["番茄钟", "休息提醒", "防沉迷", "自绘悬浮窗"],
       "targetDir": "eyecare.demo",
-      "downloadUrl": "https://raw.githubusercontent.com/wuxinoob/toolkit_plugins/main/plugins/eyecare/package.zip",
-      "mirrorUrl": "https://cdn.jsdelivr.net/gh/wuxinoob/toolkit_plugins@main/plugins/eyecare/package.zip",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/wuxinoob/toolkit_plugins@main/plugins/eyecare/package.zip",
+      "mirrorUrl": "https://raw.githubusercontent.com/wuxinoob/toolkit_plugins/main/plugins/eyecare/package.zip",
       "size": "81 KB",
       "detailPath": "plugins/eyecare/README.md"
     },
@@ -45,8 +45,8 @@
       "category": "办公与效率",
       "tags": ["便签", "WebDAV同步", "独立悬浮窗", "双向通信"],
       "targetDir": "moment-notes",
-      "downloadUrl": "https://raw.githubusercontent.com/wuxinoob/toolkit_plugins/main/plugins/moment-notes/package.zip",
-      "mirrorUrl": "https://cdn.jsdelivr.net/gh/wuxinoob/toolkit_plugins@main/plugins/moment-notes/package.zip",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/wuxinoob/toolkit_plugins@main/plugins/moment-notes/package.zip",
+      "mirrorUrl": "https://raw.githubusercontent.com/wuxinoob/toolkit_plugins@main/plugins/moment-notes/package.zip",
       "size": "292 KB",
       "detailPath": "plugins/moment-notes/README.md"
     }
@@ -64,6 +64,8 @@
       "tags": ["IDE", "编辑器", "代码调试", "Git"],
       "website": "https://code.visualstudio.com/",
       "wingetId": "Microsoft.VisualStudioCode",
+      "installerUrl": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+      "installerFileName": "VSCodeUserSetup-x64.exe",
       "detailPath": "software/vscode/README.md"
     },
     {
@@ -78,6 +80,8 @@
       "tags": ["版本控制", "Git", "Bash", "命令行"],
       "website": "https://git-scm.com/",
       "wingetId": "Git.Git",
+      "installerUrl": "https://registry.npmmirror.com/-/binary/git-for-windows/v2.47.1.windows.1/Git-2.47.1-64-bit.exe",
+      "installerFileName": "Git-64-bit-setup.exe",
       "detailPath": "software/git/README.md"
     },
     {
@@ -92,6 +96,8 @@
       "tags": ["微软官方", "窗口分屏", "快速启动", "生产力"],
       "website": "https://github.com/microsoft/PowerToys",
       "wingetId": "Microsoft.PowerToys",
+      "installerUrl": "https://github.com/microsoft/PowerToys/releases/latest/download/PowerToysUserSetup-x64.exe",
+      "installerFileName": "PowerToysUserSetup-x64.exe",
       "detailPath": "software/powertoys/README.md"
     },
     {
@@ -106,6 +112,8 @@
       "tags": ["截图", "贴图", "标注", "取色器"],
       "website": "https://www.snipaste.com/",
       "wingetId": "Snipaste.Snipaste",
+      "installerUrl": "https://dl.snipaste.com/win-x64",
+      "installerFileName": "Snipaste-x64.zip",
       "detailPath": "software/snipaste/README.md"
     },
     {
